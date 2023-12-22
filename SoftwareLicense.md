@@ -19,3 +19,23 @@
 ## Câu 4: Đặc điểm của giấy phép Reciprocal. Nêu một số ví dụ.
 
 ## Câu 5: Quy trình thông qua một giấy phép nguồn mở tại OSI
+
+## Câu 6: Giấy phép MIT và BSD khác nhau như thế nào?
+
+## Câu 7: Phân biệt 2 phiên bản cũ và mới của giấy phép BSD
+
+## Câu 8: Nội dung chính của giấy phép BSD
+
+## Câu 9: Nội dung chúng của giấy phép Apache 1.1
+
+## Câu 10: Quyền lợi và trách nhiệm của người dùng theo giấy phép GPL
+
+## Câu 11: Nội dung chính của giấy phép MPL 1.1
+
+## Câu 12: Khác biệt cơ bản giữa giáp phép dạng Permissive và Copyleft
+
+## Câu 13: Phát biểu điều khoản nonatrribution trong giấy phép BSD
+
+## Câu 14: Tính tương thích giữa các giấy phép mã nguồn mở là gì?
+
+## Câu 15: Phần mềm được phát hành theo gấy phép GPLv2 có thể kết hợp với phần mềm theo giấy phép Affero GPv3 hay không? Tại sao?
