@@ -1,4 +1,4 @@
-# Giới hạn ôn tập:
+# Nội dung ôn tập:
 
 - Giấy phép phần mềm
 
