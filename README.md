@@ -12,4 +12,5 @@
 
 - PHP
 
-Sinh viên **KHÔNG** được phép sử dụng tài liệu.
+**KHÔNG** được phép sử dụng tài liệu.
+Chúc fen thi tốt
