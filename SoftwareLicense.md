@@ -71,9 +71,32 @@ _\*Điều khoản quảng cáo: Yêu cầu tác giả của tất cả các s�
 
 ## Câu 8: Nội dung chính của giấy phép BSD
 
+Giấy phép BSD cho phép sao chép, chỉnh sửa, phân phối lại sản
+phẩm đã được chỉnh sửa hoặc không, chỉ khi :
+
+- Giữ nguyên thông báo bản quyền của sản phẩm.
+- Phải kèm theo 2 thông báo: Danh sách các điều kiện và từ chối trách nhiệm.
+- Không được sử dụng tên dự án hay tên nhà phân phối vào mục đích quảng bá sản phẩm nếu không được cho phép.
+
 ## Câu 9: Nội dung chúng của giấy phép Apache 1.1
 
+- Cho phép người dùng tự do sử dụng phần mềm với bất kỳ mục đích nào, tự do phân phối, tự do sửa đổi, tự do phân phối bản sửa đổi của mình (đoạn 3 của giấy phép).
+- Không yêu cầu bản sửa đổi của phần mềm phải được phân phối dưới cùng một giấy phép với bản gốc, hay được phân phối dưới dạng nguồn mở.
+- Trong mỗi tệp tin đã được cấp phép, thông tin về bản quyền và bằng sáng chế trong bản phân phối lại phải được giữ nguyên như bản gốc, và ở mỗi tệp tin đã được chỉnh sửa phải ghi chú là đã được chỉnh sửa khi nào.
+- Giấy phép Apache không yêu cầu trích dẫn toàn bộ giấy phép vào sản phẩm hay tệp tin đính kèm bản phân phối, mà chỉ cần thêm phần thông báo có chứa [đường link tới website chứa giấy phép](http:www.apache.org/licenses/LICENSE-2.0)
+
 ## Câu 10: Quyền lợi và trách nhiệm của người dùng theo giấy phép GPL
+
+- **Quyền lợi** của người dùng:
+  - Quyền được sao chép và phân phối chương trình
+  - Quyền được yêu cầu trả phí cho việc phân phối đó
+  - Quyền được thay đổi để sử dụng cho mục đích cá nhân
+  - Quyền được phân phói bản đã được thay đổi đó
+- **Nghĩa vụ (Trách nhiệm)** của người dùng
+  - Kho sao chép hoặc phân phối chương trình, phải đính kèm các thông báo về bản quyền gốc và tuyên bố từ chối bảo hành
+  - Khi phân phối bản đã được thay đổi bởi bản thân, phải chú thích rõ đó là bản đã được thay đổi, các thành phần được thay đổi, và áp dụng giấy phép GNU cho bản đã thay đổi đó.
+  - Khi phát hành chương trình phải công khai mã nguồn của chương trình đó
+  - Không được phép sửa đổi giấy phép
 
 ## Câu 11: Nội dung chính của giấy phép MPL 1.1
 
