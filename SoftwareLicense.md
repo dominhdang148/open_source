@@ -56,6 +56,19 @@ Cả **giấy phép MIT** và **giấy phép BSD** đều cho phép sử dụng,
 
 ## Câu 7: Phân biệt giấy phép BSD-new và BSD-old
 
+**Giấy phép BSD-old** là giấy phép gốc gồm 4 điều khoản. Vì vậy, phiên bản này còn được gọi là giấy phép BSD 4 điều khoản (4-clauses BSD)  
+**Giấy phép BSD-new** là phiên bản cập nhật của phiên bản BSD 4 điều khoản. Trong đó, điều khoản về quảng cáo bị loại bỏ, giấy phép còn lại 3 điều khoản. Vì vậy, phiên bản này còn được gọi là BSD 3 điều khoản (3-clauses BSD)
+
+|                        | BSD-old | BSD-new |
+| ---------------------- | :-----: | :-----: |
+| Năm phát hành          |  1990   |  1999   |
+| Số điều khoản          |    4    |    3    |
+| Điều khoản quảng cáo\* |   Có    |  Không  |
+| Được OSI chứng nhận    |  Không  |   Có    |
+| Tương thích với GPL    |  Không  |   Có    |
+
+_\*Điều khoản quảng cáo: Yêu cầu tác giả của tất cả các sản phẩm xuất phát từ một sản phẩm được cấp phép BSD phải bao gồm một sự thừa nhận nguồn gốc trong tất cả các tài liệu quảng cáo_
+
 ## Câu 8: Nội dung chính của giấy phép BSD
 
 ## Câu 9: Nội dung chúng của giấy phép Apache 1.1
