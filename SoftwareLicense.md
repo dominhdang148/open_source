@@ -51,8 +51,8 @@
 
 Cả **giấy phép MIT** và **giấy phép BSD** đều cho phép sử dụng, sửa đổi và phân phối lại sản phẩm đã được chỉnh sửa hoặc chưa được chỉnh sửa nếu người được cấp giấy phép tuân thủ các điều khoản của giấy phép. Sự khác biệt giữa 2 giấy phép nằm ở điều kiện mà người được cấp giấy phép cần tuân thủ. Cụ thể:
 
-- Giấy phép MIT chỉ yêu cầu các bản sao hoặc các sản phẩm phái sinh từ phần mềm gốc có giấy phép MIT phải được kèm theo giấy phép MIT
-- Giấy phép BSD yêu cầu phải tuân thủ các điều khoản liên quan đến thông báo bản quyền, từ chối trách nhiệm và bảo vệ tác giả ban đầu của phần mềm.
+- **Giấy phép MIT** chỉ yêu cầu các bản chỉnh sửa từ phần mềm gốc có giấy phép MIT phải được kèm theo giấy phép MIT. Tuy nhiên, không bắt buộc phải sử dụng giấy phép cho toàn bộ bản chỉnh sửa đó.
+- **Giấy phép BSD** yêu cầu phải tuân thủ các điều khoản liên quan đến thông báo bản quyền, từ chối trách nhiệm và bảo vệ tác giả ban đầu của phần mềm.
 
 ## Câu 7: Phân biệt giấy phép BSD-new và BSD-old
 
@@ -93,17 +93,43 @@ phẩm đã được chỉnh sửa hoặc không, chỉ khi :
   - Quyền được thay đổi để sử dụng cho mục đích cá nhân
   - Quyền được phân phói bản đã được thay đổi đó
 - **Nghĩa vụ (Trách nhiệm)** của người dùng
-  - Kho sao chép hoặc phân phối chương trình, phải đính kèm các thông báo về bản quyền gốc và tuyên bố từ chối bảo hành
+  - Khoisao chép hoặc phân phối chương trình, phải đính kèm các thông báo về bản quyền gốc và tuyên bố từ chối bảo hành
   - Khi phân phối bản đã được thay đổi bởi bản thân, phải chú thích rõ đó là bản đã được thay đổi, các thành phần được thay đổi, và áp dụng giấy phép GNU cho bản đã thay đổi đó.
   - Khi phát hành chương trình phải công khai mã nguồn của chương trình đó
   - Không được phép sửa đổi giấy phép
 
 ## Câu 11: Nội dung chính của giấy phép MPL 1.1
 
-## Câu 12: Khác biệt cơ bản giữa giáp phép dạng Permissive và Copyleft
+- Cho phép mã nguồn được cấp phép được kết hợp với các tệp/mã nguồn khác theo một giấy phép khác, thậm chí là độc quyền.
+- Các quyền do Giấy phép Công cộng Mozilla cấp chủ yếu được định nghĩa là trao từ những người cộng tác/đóng góp.
+- Trường hợp không có bằng sáng chế, mã được cấp phép MPL có thể được tự do sử dụng, thay đổi và phân phối lại. Ngược lại, không thể thay đổi mã.
+- Người được cấp phép phải đảm bảo quyền truy cập hoặc cung cấp tất cả các tệp mã nguồn nằm trong MPL.
+
+## Câu 12: Khác biệt cơ bản giữa giấy phép dạng Permissive và Copyleft
+
+- Giấy phép dạng Permissive cho phép người được cấp phép làm bất cứ thứ gì trên mã nguồn, kể cả việc độc quyền hóa mã nguồn hoặc phân phối mã nguồn miễn phí, miễn người được cấp phép phải tuân thủ các điều khoản và chấp nhận không có bảo hành
+- Giấy phép dạng Copyleft yêu cầu người được cấp phép phải công bố kèm mã nguồn nếu phân phối tệp mã nhị phân và phải tuân thủ các điều khoản của giấy phép copyleft nhằm đảm bảo các sản phẩm phái sinh điều mở và miễn phí.
 
 ## Câu 13: Phát biểu điều khoản nonatribution trong giấy phép BSD
 
+> Neither the name of the copyright holder nor the names of its
+> contributors may be used to endorse or promote products derived from
+> this software without specific prior written permission.
+
+Tạm dịch:
+
+> Người được cấp giấy phép không được sử dụng tên của dự án cũng như tên của chủ sở hữu bản quyền hoặc tên của các tổ chức/cá nhân đóng góp để chứng thực hoặc quảng cáo sản phẩm phái sinh từ dự án gốc mà không có sự đồng ý bằng văn bản của bên sở hữu bản quyền.
+
+_**Lưu ý**: Điều khoản nonattribute cho phép người dùng phân phối sản phẩm phái sinh từ phần mềm mang giấy phép chứa điều khoản trên mà không cần phải công bố nguồn gốc của mã nguồn (tên dự án gốc, tên tác giả dự án gốc, ...). Do đó, điều khoản trên không phải là điều khoản nonattribute chính thức trong giấy phép BSD. Điều khoản trên có ý ràng buộc, cấm đoán người dùng hơn là cho phép người dùng như điều khoản nonattribute_
+
 ## Câu 14: Tính tương thích giữa các giấy phép mã nguồn mở là gì?
+
+- Tính tương thích giữa các giấy phép mã nguồn mở là khả năng kết hợp các mã nguồn sử dụng các giấy phép mã nguồn mở khác nhau mà không gặp các vấn đề về pháp lý.
+
+- Các giấy phép permissive có khả năng tương thích với các giấy phép copyleft. Tuy nhiên, Các giấy phép Copyleft không có khả năng tương thích với các giấy phép permissive.
+
+- Sự tương thích giữa các giấy phép mã nguồn mở được mô tả trong sơ đồ sau:
+
+![Sơ đồ thể hiện sự tương thích giữa các giấy phép mã nguồn mở ](/asset/01.png)
 
 ## Câu 15: Phần mềm được phát hành theo gấy phép GPLv2 có thể kết hợp với phần mềm theo giấy phép Affero GPv3 hay không? Tại sao?
