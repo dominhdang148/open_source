@@ -49,7 +49,12 @@
 
 ## Câu 6: Giấy phép MIT và BSD khác nhau như thế nào?
 
-## Câu 7: Phân biệt 2 phiên bản cũ và mới của giấy phép BSD
+Cả **giấy phép MIT** và **giấy phép BSD** đều cho phép sử dụng, sửa đổi và phân phối lại sản phẩm đã được chỉnh sửa hoặc chưa được chỉnh sửa nếu người được cấp giấy phép tuân thủ các điều khoản của giấy phép. Sự khác biệt giữa 2 giấy phép nằm ở điều kiện mà người được cấp giấy phép cần tuân thủ. Cụ thể:
+
+- Giấy phép MIT chỉ yêu cầu các bản sao hoặc các sản phẩm phái sinh từ phần mềm gốc có giấy phép MIT phải được kèm theo giấy phép MIT
+- Giấy phép BSD yêu cầu phải tuân thủ các điều khoản liên quan đến thông báo bản quyền, từ chối trách nhiệm và bảo vệ tác giả ban đầu của phần mềm.
+
+## Câu 7: Phân biệt giấy phép BSD-new và BSD-old
 
 ## Câu 8: Nội dung chính của giấy phép BSD
 
