@@ -10,9 +10,33 @@
 
 ## 2. Nêu một vài ứng dụng mã nguồn mở mà em biết? Tính năng, ưu - nhược điểm của chúng?
 
-Vim
+### **Trình duyệt FireFox**
+
+**Tính năng**
+
+- Awesome Bar
+- Dễ dàng tạo Bookmark
+- TraceMonkey JavaScript Engine
+- Hỗ trợ hệ thống Phishing và Malware
+- Dễ dàng phục hồi lại phiên làm việc trước
+
+**Ưu điểm**
+
+- Khả năng tùy biến dễ dàng
+- Plugins + Themes
+- Tính bảo mật cao
+- Giao diện thân thiện
+
+**Nhược điểm**
+
+- Khả năng tương thích chưa tốt
+- Thời gian tải trang lâu hơn so vơi các trình duyệt khác
+- Nhiều plugin mặc định
 
 ## 3. So sánh Laravel và CakePHP?
+
+**Giống nhau:** Laravel và CakePHP đều là framework mạnh mẽ dùng để xây dựng các ứng dụng web bằng ngôn ngữ PHP.  
+**Khác nhau**
 
 ## 4. CMS là gì? Chức năng chính và cách thức hoạt động của CMS?
 
