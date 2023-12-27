@@ -133,3 +133,7 @@ _**Lưu ý**: Điều khoản nonattribute cho phép người dùng phân phối
 ![Sơ đồ thể hiện sự tương thích giữa các giấy phép mã nguồn mở ](/asset/01.png)
 
 ## Câu 15: Phần mềm được phát hành theo gấy phép GPLv2 có thể kết hợp với phần mềm theo giấy phép Affero GPv3 hay không? Tại sao?
+
+![Sơ đồ thể hiện sự tương thích giữa các giấy phép mã nguồn mở ](/asset/01.png)
+
+Theo sơ đồ thể hiện sử tương thích của các giấy phép, giấy phép GPL 2.0+ tương thích với giấy phép Affero GPv3 thông qua giấy phép GPL 3.0. Tuy nhiên, giấy phép GPL 2.0 không tương thích với giấy phép GPL 2.0+. Do đó, Giấy phép GPL 2.0 không tương thích với giấy phép Affero GPv3
