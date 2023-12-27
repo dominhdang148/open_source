@@ -120,7 +120,7 @@ Tạm dịch:
 
 > Người được cấp giấy phép không được sử dụng tên của dự án cũng như tên của chủ sở hữu bản quyền hoặc tên của các tổ chức/cá nhân đóng góp để chứng thực hoặc quảng cáo sản phẩm phái sinh từ dự án gốc mà không có sự đồng ý bằng văn bản của bên sở hữu bản quyền.
 
-_**Lưu ý**: Điều khoản nonattribute cho phép người dùng phân phối sản phẩm phái sinh từ phần mềm mang giấy phép chứa điều khoản trên mà không cần phải công bố nguồn gốc của mã nguồn (tên dự án gốc, tên tác giả dự án gốc, ...). Do đó, điều khoản trên không phải là điều khoản nonattribute chính thức trong giấy phép BSD. Điều khoản trên có ý ràng buộc, cấm đoán người dùng hơn là cho phép người dùng như điều khoản nonattribute_
+_**Lưu ý**: Điều khoản nonattribute cho phép người dùng phân phối sản phẩm phái sinh từ phần mềm mang giấy phép chứa điều khoản trên mà không cần phải công bố nguồn gốc của mã nguồn (tên dự án gốc, tên tác giả dự án gốc, ...). Do đó, điều khoản trên không phải là điều khoản nonattribute chính thức trong giấy phép BSD. Điều khoản trên có ý ràng buộc, cấm đoán người dùng hơn là cho phép người dùng như điều khoản nonattribution_
 
 ## Câu 14: Tính tương thích giữa các giấy phép mã nguồn mở là gì?
 
