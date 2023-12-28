@@ -49,7 +49,7 @@
 
 ## 4. CMS là gì? Chức năng chính và cách thức hoạt động của CMS?
 
-**Content management system (CMS)** là hệ quản trạn nội dung của một trang Web. CMS có nhiệm vụ kiểm soát, điều khiển các hoạt động liên quan đến nội dung, thông tin của trang Web đó. Nội dung trên Web bao gồm hình ảnh, tin tức, video,... Những thông tin thuộc về trang Web. Đối với một số trình CMS nâng cao, những thao tác phức tạp như giao diện, danh mục của trang Web đều có thể được tuỳ biến theo người dùng.
+**Content management system (CMS)** là hệ quản trị nội dung của một trang Web. CMS có nhiệm vụ kiểm soát, điều khiển các hoạt động liên quan đến nội dung, thông tin của trang Web đó. Nội dung trên Web bao gồm hình ảnh, tin tức, video,...và những thông tin thuộc về trang Web. Đối với một số trình CMS nâng cao, những thao tác phức tạp như giao diện, danh mục của trang Web đều có thể được tuỳ biến theo người dùng.
 
 **Các chức năng chính** của CMS bao gồm:
 
