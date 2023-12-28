@@ -84,6 +84,28 @@
 
 ## 7. Trình bày những hiểu biết của em về CMS WordPress?
 
+- Wordpress là một CMS miễn phí, phổ biến và dễ sử dụng, phù hợp với người mới bắt đầu hoặc nguời không có chuyên môn
+- Wordpress được sử dụng để xây dựng các trang web khác nhau như trang web cá nhân, blog, báo điện tử, thương mại điện tử,...
+- Wordpress được viết bằng ngôn ngữ PHP và sử dụng hệ quản trị cơ sở dữ liệu MySQL
+- **Những tính năng và ưu điểm của Wordpress**
+  - Hệ thống plugin và theme da dạng, phong phú, chuyên nghiệp,...
+  - Hỗ trợ đa ngôn ngữ
+  - Cập nhật phiên bản liên tục, cộng đồng hỗ trợ lớn.
+  - Dê dàng sử dụng, quản lý và chỉnh sửa,
+  - Thể hiện các tệp PDF, DOCX, PowerPoint ngay trên nội dung bài viết
+  - Tích hợp sẵn Latex
+- **Nhược điểm của Wordpress**
+  - Khó cài đặt các template và plugin
+  - Chỉ phù hợp cho các doanh nghiệp vừa và nhỏ.
+
 ## 8. So sánh Apache server và IIS?
+
+|                      |                   IIS                    |                  Apache                   |
+| -------------------- | :--------------------------------------: | :---------------------------------------: |
+| Nhà phát triển       |                Microsoft                 |            Quỹ phần mềm Apache            |
+| Khả năng tương thích | Chỉ tương thích với hệ điều hành Windows |   Tương thích với hầu hết hệ điều hành    |
+| Hoạt động            |            Dễ học, dễ sử dụng            | Phụ thuộc vào hệ điều hành mà nó được cài |
+| Bảo mật              |            Rủi ro bảo mật cao            |        Không có rủi ro bảo mật cao        |
+| Hỗ trợ người dùng    |       Cung cấp hỗ trợ của công ty        |       Cung cấp hỗ trợ của cộng đồng       |
 
 ## 9. So sánh Virtual Box và VMWare
