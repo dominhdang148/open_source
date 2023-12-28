@@ -62,8 +62,13 @@
 
 ## 5. So sánh CMS Joomla! và WordPress?
 
-| WordPress | Joomla! |
-| :-------: | :-----: |
+|                   |                                                                    WordPress                                                                     |                                                                 Joomla!                                                                  |
+| ----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+| Tính đơn giản     |                                                         Thân thiên với người mới bắt đầu                                                         |                                                   Phức tạp, cần thời gian để làm quen                                                    |
+| Viết blog         |                                                                    Hỗ trợ tốt                                                                    |                                                             Hỗ trợ không tốt                                                             |
+| Đa ngôn ngữ       |                                                            Chỉ hỗ trợ một số ngôn ngữ                                                            |                                           Hỗ trợ tốt. Ngoài ra còn có thể quản lý các ngôn ngữ                                           |
+| Bảo mật           | Khả năng bảo mật rất tốt với cơ chế phản ứng với các mối đe dọa và tấn công rất nhanh chóng. Các bản cập nhật bảo mật luôn được tự động cập nhật | Cơ chế hoạt động tương tự như Wordpress. Tuy nhiên, tốc dộ phản ứng với mối đe dọa và tấn công cao hơn và linh hoạt hơn so vơi Wordpress |
+| Công nghệ sử dụng |                                                         Ngôn ngữ PHP và HQTCSDL MariaDB                                                          |        Ngôn ngữ PHP với các kĩ thuật lập trình hướng đối tượng và mẫu thiết kế. Hỗ trợ nhiều HQTCSDL như MSSQL, MySQL, PostgreSQL        |
 
 ## 6. So sánh WordPress.com và WordPress.org?
 
