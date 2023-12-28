@@ -108,4 +108,16 @@
 | Bảo mật              |            Rủi ro bảo mật cao            |        Không có rủi ro bảo mật cao        |
 | Hỗ trợ người dùng    |       Cung cấp hỗ trợ của công ty        |       Cung cấp hỗ trợ của cộng đồng       |
 
-## 9. So sánh Virtual Box và VMWare
+## 9. So sánh Virtual Box và VMware
+
+|                        |                                               VirtualBox                                                |                                                     VMware                                                      |
+| ---------------------- | :-----------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+| Ảo hóa phần mềm        |                                                   Có                                                    |                                                      Không                                                      |
+| Hệ điều hành máy chủ   |                                 Linux, Windows, Solaris, macOS,FreeBSD                                  |                                  Linux, Windows, macOS (yêu cầu VMware Fusion)                                  |
+| Hệ điều hành máy khách |                                 Linux, Windows, Solaris, macOS,FreeBSD                                  |                           Linux, Windows, Solaris, macOS,FreeBSD (với VMware Fusion)                            |
+| Snapshot               |                                             Hỗ trợ miễn phí                                             |                                        Chỉ hỗ trợ cho phiên bản trả phí                                         |
+| Định dạng ổ đĩa ảo     |                                           VDI, VMDK, VHD, HDD                                           |                                                      VMDK                                                       |
+| Hỗ trợ USB             |                               USB 2.0/3.0 khi cài bản mở rộng (miễn phí)                                |                                               thiết bị USB có sẵn                                               |
+| Đồ họa 3D              | -Hỗ trợ OpenGL3.0 và Direct3D 9<br>Bộ nhớ tối đa 128MB<br>Tăng tốc 3D được kích hoạt theo cách thủ công |          Hỗ trợ OpenGL3.3, DirectX 10<br>Bộ nhớ Video tối đa 2GB<br>Tăng tốc 3D được bật theo mặc định          |
+| Tool hỗ trợ            |               VirtualBox Guest Additions<br>Được cài đặt bằng file VBoxGuestAdditions.iso               |        VMware Tools<br>Cài đặt bằng file .iso sử dụng cho máy ảo tương ứng (windows.iso, linux.iso,....)        |
+| Giấy phép              |                                 Miễn phí, theo Giấy phép công cộng GNU                                  | Miễn phí đối với VMware Worktation Player<br>Các phần mềm khác của VMware yêu cầu phải trả phí để cấp giấy phép |
