@@ -38,14 +38,14 @@
 **Giống nhau:** Laravel và CakePHP đều là framework mạnh mẽ dùng để xây dựng các ứng dụng web bằng ngôn ngữ PHP.  
 **Khác nhau**
 
-|                             |                              Lavarel                               |                                   CakePHP                                   |
-| --------------------------- | :----------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| Hiệu năng cơ bản            |                 Hiệu năng mạnh mẽ<br>cho dự án lớn                 |                Tối ưu cho dự án nhỏ<br>hoặc tập dữ liệu nhỏ                 |
-| Kiến trúc                   |        Kiến trúc MVC và sử dụng<br>liên kết dữ liệu 2 chiều        | Kiến trúc HMVC, không<br>cung cấp quy trình<br>liên kết dữ liệu 2 chiều nào |
-| Template                    | Cung cấp mẫu thông qua<br>các thuộc tính HTML động<br>vào Document |                           Sử dụng mẫu Underscore                            |
-| Kiểm thử                    |            Mượt mà hơn khi kiểm thử<br>các ứng dụng lớn            |        Cung cấp kiểm thử nhanh<br>cho một trang hoặc<br>ứng dụng nhở        |
-| Routing                     |            Phức tạp hơn do sử dụng<br>ràng buộc 2 chiều            |                                Đơn giản hơn                                 |
-| Sao lưu và<br>xử lý dữ liệu |            Hỗ trợ tốt viêc sao lưu<br> và xử lý dữ liệu            |              Ít chú trọng vào việc<br>sao lưu và xử lý dữ liệu              |
+|                          |                           Lavarel                            |                                CakePHP                                |
+| ------------------------ | :----------------------------------------------------------: | :-------------------------------------------------------------------: |
+| Hiệu năng cơ bản         |               Hiệu năng mạnh mẽ cho dự án lớn                |               Tối ưu cho dự án nhỏ hoặc tập dữ liệu nhỏ               |
+| Kiến trúc                |      Kiến trúc MVC và sử dụng liên kết dữ liệu 2 chiều       | Kiến trúc HMVC, không cung cấp quy trình liên kết dữ liệu 2 chiều nào |
+| Template                 | Cung cấp mẫu thông qua các thuộc tính HTML động vào Document |                        Sử dụng mẫu Underscore                         |
+| Kiểm thử                 |          Mượt mà hơn khi kiểm thử các ứng dụng lớn           |        Cung cấp kiểm thử nhanh cho một trang hoặc ứng dụng nhở        |
+| Routing                  |          Phức tạp hơn do sử dụng ràng buộc 2 chiều           |                             Đơn giản hơn                              |
+| Sao lưu và xử lý dữ liệu |           Hỗ trợ tốt viêc sao lưu và xử lý dữ liệu           |            Ít chú trọng vào việc sao lưu và xử lý dữ liệu             |
 
 ## 4. CMS là gì? Chức năng chính và cách thức hoạt động của CMS?
 
@@ -71,6 +71,16 @@
 | Công nghệ sử dụng |                                                         Ngôn ngữ PHP và HQTCSDL MariaDB                                                          |        Ngôn ngữ PHP với các kĩ thuật lập trình hướng đối tượng và mẫu thiết kế. Hỗ trợ nhiều HQTCSDL như MSSQL, MySQL, PostgreSQL        |
 
 ## 6. So sánh WordPress.com và WordPress.org?
+
+|                    |                                         WordPress.com                                          |                 WordPress.org                 |
+| ------------------ | :--------------------------------------------------------------------------------------------: | :-------------------------------------------: |
+| Tùy biến           |                                            Hạn chế                                             |                    Đầy đủ                     |
+| Lưu trữ            |                            Được lưu trữ bởi các trang web miễn phí                             |  Người dùng có trách nhiệm lưu trữ trang web  |
+| Bảo mật            |                      Các biện pháp bảo vệ được cung cấp bởi các trang web                      |           Phụ thuộc vào người dùng            |
+| Kiếm tiền          |                             Cung cấp ít tùy chọn hơn để kiểm tiền                              |    Cung cấp các tùy chọn kiếm tiền tốt hơn    |
+| Thương mại điện tử |                         Không phù hợp, chính sách bán hàng nghiêm ngặt                         |   Cung cấp một loạt các chính sách bán hàng   |
+| Quản lý            |                                     Không yêu cầu quản lý                                      |        Yêu cầu quản lý phía người dùng        |
+| Giá thành          | Chỉ miễn phí ở gói cơ bản. Để sử dụng thêm các chức năng và loại bỏ quảng cáo cần phải trả phí | Miễn phí, chỉ tốn khoản phí hosting và domain |
 
 ## 7. Trình bày những hiểu biết của em về CMS WordPress?
 
