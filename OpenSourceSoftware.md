@@ -63,7 +63,7 @@
 ## 5. So sánh CMS Joomla! và WordPress?
 
 | WordPress | Joomla! |
-| --------- | ------- |
+| :-------: | :-----: |
 
 ## 6. So sánh WordPress.com và WordPress.org?
 
