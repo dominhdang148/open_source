@@ -38,9 +38,32 @@
 **Giống nhau:** Laravel và CakePHP đều là framework mạnh mẽ dùng để xây dựng các ứng dụng web bằng ngôn ngữ PHP.  
 **Khác nhau**
 
+|                             |                              Lavarel                               |                                   CakePHP                                   |
+| --------------------------- | :----------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| Hiệu năng cơ bản            |                 Hiệu năng mạnh mẽ<br>cho dự án lớn                 |                Tối ưu cho dự án nhỏ<br>hoặc tập dữ liệu nhỏ                 |
+| Kiến trúc                   |        Kiến trúc MVC và sử dụng<br>liên kết dữ liệu 2 chiều        | Kiến trúc HMVC, không<br>cung cấp quy trình<br>liên kết dữ liệu 2 chiều nào |
+| Template                    | Cung cấp mẫu thông qua<br>các thuộc tính HTML động<br>vào Document |                           Sử dụng mẫu Underscore                            |
+| Kiểm thử                    |            Mượt mà hơn khi kiểm thử<br>các ứng dụng lớn            |        Cung cấp kiểm thử nhanh<br>cho một trang hoặc<br>ứng dụng nhở        |
+| Routing                     |            Phức tạp hơn do sử dụng<br>ràng buộc 2 chiều            |                                Đơn giản hơn                                 |
+| Sao lưu và<br>xử lý dữ liệu |            Hỗ trợ tốt viêc sao lưu<br> và xử lý dữ liệu            |              Ít chú trọng vào việc<br>sao lưu và xử lý dữ liệu              |
+
 ## 4. CMS là gì? Chức năng chính và cách thức hoạt động của CMS?
 
+**Content management system (CMS)** là hệ quản trạn nội dung của một trang Web. CMS có nhiệm vụ kiểm soát, điều khiển các hoạt động liên quan đến nội dung, thông tin của trang Web đó. Nội dung trên Web bao gồm hình ảnh, tin tức, video,... Những thông tin thuộc về trang Web. Đối với một số trình CMS nâng cao, những thao tác phức tạp như giao diện, danh mục của trang Web đều có thể được tuỳ biến theo người dùng.
+
+**Các chức năng chính** của CMS bao gồm:
+
+- Tạo nội dung trên trang Web
+- Lưu trữ nội dung trên trang Web
+- Chia sẻ và di chuyển nội dung trang web
+- Quản lý, phần quyền giữa các người dùng.
+
+**Cách thức hoạt động của CMS:** Các CMS không yêu cầu người dùng phải trực tiếp can thiệp vào mã nguồn. Bằng khả năng chỉnh sửa trang Web trực quan, hệ thống quản lý giao diện hiện trực tiếp trên máy tính, người dùng sẽ được trang bị những công cụ chỉnh sửa trực tiếp, để viết bài, đăng hình ảnh, thông tin lên trang Web. Ngoài ra, CMS không cần trực tiếp truy cập vào server, chỉ việc chỉnh sửa qua giao diện có sẵn thông qua vài cú nhấp chuột.
+
 ## 5. So sánh CMS Joomla! và WordPress?
+
+| WordPress | Joomla! |
+| --------- | ------- |
 
 ## 6. So sánh WordPress.com và WordPress.org?
 

@@ -78,7 +78,7 @@ phẩm đã được chỉnh sửa hoặc không, chỉ khi :
 - Phải kèm theo 2 thông báo: Danh sách các điều kiện và từ chối trách nhiệm.
 - Không được sử dụng tên dự án hay tên nhà phân phối vào mục đích quảng bá sản phẩm nếu không được cho phép.
 
-## Câu 9: Nội dung chúng của giấy phép Apache 1.1
+## Câu 9: Nội dung chính của giấy phép Apache 1.1
 
 - Cho phép người dùng tự do sử dụng phần mềm với bất kỳ mục đích nào, tự do phân phối, tự do sửa đổi, tự do phân phối bản sửa đổi của mình (đoạn 3 của giấy phép).
 - Không yêu cầu bản sửa đổi của phần mềm phải được phân phối dưới cùng một giấy phép với bản gốc, hay được phân phối dưới dạng nguồn mở.
